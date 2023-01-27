@@ -2,7 +2,7 @@ root
 
 
 git add {file.name}   :   add
-git commit -m "name"   :   commit
+git commit -m "message"   :   commit
 
 git remote add {server.name} {link}   :   create
 git remote remove {server.name}   :   delete
