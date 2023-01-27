@@ -9,3 +9,5 @@ git remote add {server.name} {link}
 git remote remove {server.name}
 
 git remote -v   :   checking
+
+git push {server.name} master
