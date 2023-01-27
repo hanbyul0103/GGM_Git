@@ -5,7 +5,7 @@ root
 git add {file.name}
 git commit -m "name"
 
-git remote add {origin} {link}
-git remote remove {}
+git remote add {server.name} {link}
+git remote remove {server.name}
 
 git remote -v   :   checking
