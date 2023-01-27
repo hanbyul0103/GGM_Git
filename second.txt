@@ -2,12 +2,12 @@ This file is second file
 
 
 root
-git add {file.name}
-git commit -m "name"
+git add {file.name}   :   add
+git commit -m "name"   :   commit
 
-git remote add {server.name} {link}
-git remote remove {server.name}
+git remote add {server.name} {link}   :   create
+git remote remove {server.name}   :   delete
 
 git remote -v   :   checking
 
-git push {server.name} master
+git push {server.name} master   :   push
