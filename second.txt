@@ -1,6 +1,5 @@
 root
 
-
 git add {file.name}   :   add
 git commit -m "message"   :   commit
 
