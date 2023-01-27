@@ -1,7 +1,6 @@
-This file is second file
-
-
 root
+
+
 git add {file.name}   :   add
 git commit -m "name"   :   commit
 
