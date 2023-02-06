@@ -8,5 +8,5 @@ Weight(몸무게) = 62kg
 Blood type(혈액형) = A
 Glasses(안경) = Ture
 language(언어) = Korean, English, Python
-Hobby(취미) = Playing piano and guitar, Programming
+Hobby(취미) = Playing piano and guitar, Programming, Playing game
 ```
